@@ -1,6 +1,6 @@
 git is a version control system.
 git is free software
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
